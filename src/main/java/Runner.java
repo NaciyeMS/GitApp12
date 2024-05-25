@@ -9,5 +9,7 @@ public class Runner {
         System.out.println("deneme");
         //versiyon 6
         System.out.println("ooodb");
+        //versiyon 8
+        System.out.println("yeni değişiklik");
     }
 }

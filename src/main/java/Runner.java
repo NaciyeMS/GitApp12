@@ -5,5 +5,7 @@ public class Runner {
         System.out.println("yeniden deniyorum");
         //versiyon 4
         System.out.println("hi");
+        //versiyon 5
+        System.out.println("deneme");
     }
 }

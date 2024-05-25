@@ -3,5 +3,7 @@ public class Runner {
         //version 1
         System.out.println("hello git");
         System.out.println("yeniden deniyorum");
+        //versiyon 4
+        System.out.println("hi");
     }
 }

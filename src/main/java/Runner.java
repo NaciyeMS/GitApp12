@@ -7,5 +7,7 @@ public class Runner {
         System.out.println("hi");
         //versiyon 5
         System.out.println("deneme");
+        //versiyon 6
+        System.out.println("ooodb");
     }
 }
